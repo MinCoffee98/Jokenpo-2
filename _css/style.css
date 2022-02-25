@@ -1,0 +1,36 @@
+body { 
+
+    background-color: #B0C4DE;
+
+    text-align: center;
+
+    max-width: 1300px;
+
+    margin: auto;
+
+    font-family: 'PT shadow-multiple', sans-serif;
+
+}
+ul {     
+
+    list-style-type: none;
+
+}
+
+ 
+
+li { 
+
+    display: inline; 
+
+    margin: 10px;
+
+}
+
+ 
+
+img { 
+
+    size: 100%;
+
+}
